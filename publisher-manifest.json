@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "338dda8da7ec0ffd1730bec4",
+  "owner": "qnajnq",
+  "repo": "page-d9c5d475a9776fc5c2b896f9",
+  "title": "长长久久溜溜(779966)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9c5d475a9776fc5c2b896f9",
+      "a": "长长久久溜溜(779966)",
+      "b": "稳定全球clash加速器",
+      "entity": "长长久久溜溜(779966)",
+      "brand": "长长久久溜溜(779966)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "29b0dac44a1d232cff0dcc3e759940e59ddc242be9286f7220b18b5cbacb9ab5",
+      "content": {
+        "primary_entity": "长长久久溜溜(779966)",
+        "keyword1": "长长久久溜溜(779966)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，长长久久溜溜(779966)提供多档订阅方案，适合日常浏览、流媒体观看与多设备协同。基础版每月100GB流量支持3台设备，旗舰版每月300GB并搭载IPLC专线，团队版1000GB可容纳20台设备。搭配Clash客户端导入订阅，即可按需选择线路。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备场景",
+          "AI_HERO_INTRO": "长长久久溜溜(779966)面向需要稳定全球连接的用户，提供基础版、旗舰版与团队版三档订阅。根据设备数量、月流量和线路偏好选择方案，用Clash客户端导入订阅地址即可开始使用。",
+          "AI_VISUAL_TITLE": "长长久久溜溜 订阅方案",
+          "AI_HIGHLIGHT_1": "100GB起 多档流量可选",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC专线游戏加速优化",
+          "AI_FEATURES_TITLE": "套餐选择与设备适配",
+          "AI_FEATURES_INTRO": "选套餐先看设备数量和月流量，再看是否需要流媒体解锁或游戏专线。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台，旗舰版5台，团队版20台，覆盖手机、电脑与平板组合。",
+          "AI_FEATURE_TITLE_2": "按月流量规划",
+          "AI_FEATURE_TEXT_2": "100GB适合轻中度浏览，300GB满足流媒体，1000GB面向多设备高频使用。",
+          "AI_FEATURE_TITLE_3": "按年付更省",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版350元，团队版850元，长期使用可降低月均成本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用对应Clash客户端，导入订阅后按文档完成配置。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版15元月付，旗舰版35元月付，团队版85元月付；按年付分别150元、350元、850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选择套餐到客户端配置，按步骤操作即可。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认常用设备系统与客户端版本要求，准备导入订阅。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅地址后，依照Clash客户端文档导入并选择线路。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选定套餐，导入Clash订阅即可使用。",
+          "AI_FAQ_TITLE": "常见事项",
+          "AI_FAQ_QUESTION_1": "套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可在续费周期切换档位，升级补差价，降级通常在下个计费周期生效，具体以订阅管理页显示为准。",
+          "AI_FAQ_QUESTION_2": "同时在线设备怎么计算？",
+          "AI_FAQ_ANSWER_2": "同一时间保持连接的设备总数计入上限，基础版3台，旗舰版5台，团队版20台。离线设备不占用额度。",
+          "AI_FAQ_QUESTION_3": "流量用完了会怎样？",
+          "AI_FAQ_ANSWER_3": "当月流量达到套餐上限后连接可能受限，可等待下月重置或升级套餐获得更多流量。",
+          "AI_FAQ_QUESTION_4": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "年付仅需10个月费用，例如基础版年付150元，月付合计180元。功能上无差异。",
+          "AI_FAQ_QUESTION_5": "团队版支持哪些额外配置？",
+          "AI_FAQ_ANSWER_5": "团队版提供VIP高带宽节点、企业定制路由以及专属客户经理，适合多设备小团队集中管理。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4sc0njlak85i.com",
+    "host": "xn--9kqy4sc0njlak85i.com"
+  },
+  "file_hashes": {
+    "index.html": "c93980d20611acdf8ebb146bf41666f66a1cc1c15697f695666056e74a4500e3",
+    "sitemap.xml": "b0e06383b862e8f63efa43c5f45b9c4aeb29506a017d09749009ef3f54aaf4f4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bac4606cfc1ab7d9298390d4b2b29699aeded44e36c0c9ee44cd171147a71925",
+    "robots.txt": "c6b45648a72be3b11376963284e45f48d688ec5dd2203b6c678202c20dc1d4c6",
+    "4e5f52f3d047c8b744107e0a34924b57.txt": "917a816d98ed53e20cc5736676526cc4599d37d00e4861772febc4ff0b20a897"
+  },
+  "revision": "7c540a1f7c34d19b487c45fd96905b34ab7f2aebad192ef778ede2a639c0d820"
+}
